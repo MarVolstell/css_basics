@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+header img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    display: block;
+    margin: 50px;
+}
+section {
+    border: 1px solid #9e9e9e;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+article{
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    text-align: left;
+}
+footer {
+    display: block;
+    margin: 10px;
+    text-align: center;
+    color: #c7c7c7;
+}

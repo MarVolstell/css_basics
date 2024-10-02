@@ -1,0 +1,27 @@
+h2 {
+    color:cadetblue; /* style rule */
+    text-align: center;
+}
+*{ /* universalus */
+    text-decoration: underline;
+    margin:0;
+}
+/* klases selektorius */
+.vip h2{
+    color: brown;
+}
+article a{
+color: yellow;
+}
+.center {
+    text-align: right;
+}
+#super {
+    background-color: antiquewhite; /*shouldnt use id just for css*/
+}
+/*a[href="https://delfi.lt"] {
+    color: darkolivegreen;
+} */
+.links li:nth-child(2n+1){
+    background-color: aquamarine;
+}
